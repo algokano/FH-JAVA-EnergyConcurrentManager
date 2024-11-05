@@ -4,12 +4,6 @@
 - **Sarvar Abdurakhimov** (7221535) - Implemented the `Battery` class, `SystemController` monitoring, and documentation of concurrency theory. Developed `EnergySource` and `EnergyConsumer` classes, focusing on concurrent charging and usage simulation.
 - **Komiljon Yangiboev** (7222441)
 
-## Assignment Objectives
-- **Concurrent Charging**: Simulate multithreaded charging of a battery by multiple energy sources.
-- **Concurrent Usage**: Simulate multithreaded battery usage by multiple consumers.
-- **Overload Control**: Implement a monitoring system to prevent battery overload.
-- **Concurrency Theory**: Answer theoretical questions related to concurrency.
-
 
 <img width="604" alt="Screenshot 2024-11-05 at 22 52 06" src="https://github.com/user-attachments/assets/2c581f3f-88fd-4ce7-bf65-5524205fb9e2">
 
