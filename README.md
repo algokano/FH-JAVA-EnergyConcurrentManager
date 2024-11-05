@@ -10,6 +10,11 @@
 - **Overload Control**: Implement a monitoring system to prevent battery overload.
 - **Concurrency Theory**: Answer theoretical questions related to concurrency.
 
+
+<img width="604" alt="Screenshot 2024-11-05 at 22 52 06" src="https://github.com/user-attachments/assets/2c581f3f-88fd-4ce7-bf65-5524205fb9e2">
+
+
+
 ## Project Structure
 Component Overview Battery.java Manages the battery's charge and capacity. Provides synchronized charge and drain methods to prevent concurrent modification issues.
 
@@ -18,3 +23,5 @@ EnergySource.java Simulates an energy source that charges the battery at a confi
 EnergyConsumer.java Represents a consumer that drains energy from the battery at a set usage rate. Each consumer operates on its own thread.
 
 SystemController.java Monitors the battery's charge level. Issues warnings if the battery is critically low and can control or adjust the load if necessary to prevent overload.
+
+<img width="279" alt="Screenshot 2024-11-05 at 22 52 29" src="https://github.com/user-attachments/assets/b883a199-40ae-40f2-b508-b27126d3442c">
