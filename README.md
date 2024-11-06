@@ -1,7 +1,7 @@
 # Energy Management System
 
 Video file:
-https://drive.google.com/file/d/1p88Dfdef3DFrvMlR0AeW9qRuBGgq0Soy/view?usp=sharing
+https://drive.google.com/file/d/1SJ4ATZj8cqiuhTo-G0ZTSzosEH_Il40T/view?usp=sharing
 
 ## Team Members
 - **Sarvar Abdurakhimov** (7221535) - Implemented the `Battery` class, `SystemController` monitoring, and documentation of concurrency theory. Developed `EnergySource` and `EnergyConsumer` classes, focusing on concurrent charging and usage simulation.
